@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(0, 0, 255, 0.274);
+    /* padding: 20%; */
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h1{
+    color: rgb(255, 4, 180);
+    text-align: center;
+}
+input{
+    background-color: rgba(245, 224, 32, 0.575);
+}
+.inputgroup{
+    margin-left: 20%;
+ 
+}
+.formgroup{
+    margin-left: 20%;
+    
+}
+ul{
+    margin: 20%;
+    font-size: x-large;
+    background-color: rgba(128, 255, 0, 0.589);
+}
+
